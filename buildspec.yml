@@ -94,7 +94,7 @@ phases:
                       failureThreshold: 5
                     resources:
                       limits:
-                        cpu: 400m
+                        cpu: 500m
                       requests:
                         cpu: 200m  
           EOF
